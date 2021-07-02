@@ -1,1 +1,1 @@
-# vortex_c1
+# Coursework submitted for the MSc Vortex Dynamics course.
